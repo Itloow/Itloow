@@ -1,54 +1,52 @@
-### 👋 Salut, moi c'est Olti (Itloow)
+# Salut, moi c'est Olti (Itloow)
 
-🎓 **Étudiant en L3 MIASHS** (Maths & Informatique Appliquées aux SHS)
-📍 *En route vers un Master Data & Intelligence Artificielle*
+Etudiant en L3 MIASHS (Maths & Informatique Appliquees aux SHS) a l'Universite Toulouse Jean Jaures.  
+En route vers un Master Informatique, specialisation Data & Intelligence Artificielle.
 
-Passionné par la transformation de la donnée brute en information décisionnelle. Mon cursus hybride (Maths/Info) me permet de combiner **rigueur statistique** et **développement logiciel** pour créer des modèles d'analyse performants.
-
----
-
-### 🛠️ Arsenal Technique
-
-* **Data Science & Stats :** Python (Pandas, NumPy, Matplotlib), R, SQL
-* **NLP & ML :** spaCy, scikit-learn (TF-IDF, Random Forest)
-* **Géospatial :** Folium, Geopandas
-* **Développement :** Java (POO, Design Patterns), Python (Scripting, Automatisation)
-* **Outils :** Git, Streamlit, Jupyter, IntelliJ
+Mon cursus hybride me permet de combiner rigueur statistique et developpement logiciel pour construire des solutions d'analyse et de modelisation.
 
 ---
 
-### 🚀 Projets à la une
+## Competences techniques
 
-#### 🏠 [Lyon Airbnb Discrimination — Détection de biais par NLP](https://github.com/Itloow/lyon-airbnb-discrimination)
-*NLP appliqué aux enjeux sociétaux.* 🔄 En cours
-
-* **Objectif :** Détecter automatiquement les formulations potentiellement discriminatoires dans ~11 000 annonces Airbnb à Lyon.
-* **Tech :** Python, spaCy, scikit-learn (TF-IDF), Folium, Geopandas, Streamlit
-* **Approche :** Croisement analyse textuelle (NLP) et données géographiques pour identifier si certains quartiers concentrent plus de langage "exclusif".
-
-#### 📊 [ACP Rugby — Analyse Multidimensionnelle](https://github.com/Itloow/acp-rugby-joueurs)
-*L'alliance des Stats et du Sport.*
-
-* **Objectif :** Explorer et classifier les profils de joueurs via une Analyse en Composantes Principales.
-* **Tech :** R / Python, visualisation de données, interprétation statistique des axes.
-* **Résultat :** Mise en évidence de corrélations entre les caractéristiques physiques et les postes sur le terrain.
-
-#### 🅿️ [DreamPark — Simulation de Parking](https://github.com/Itloow/MJEKU_WABOE_PYTHON)
-*Algorithmique et Gestion de flux.*
-
-* **Objectif :** Simuler la gestion d'un parking en temps réel avec contraintes (places, types de véhicules).
-* **Tech :** Python, Logique événementielle, Gestion de fichiers (Logs).
-
-#### 🚌 [Autobus — Modélisation Système](https://github.com/Itloow/MJEKU_SAID_JAVA)
-*Architecture Logicielle.*
-
-* **Objectif :** Modéliser un réseau de transport en commun robuste.
-* **Tech :** Java, Programmation Orientée Objet (Héritage/Polymorphisme), Tests unitaires.
+| Domaine | Technologies |
+|---|---|
+| Data Science & Stats | Python — Pandas, NumPy, Matplotlib (certification), R, SQL |
+| NLP & ML | spaCy, scikit-learn (certification) |
+| Developpement | C, C++, Java (POO, Design Patterns), Python, JavaScript/React, OCaml (cours) |
+| Web | Symfony, Next.js, HTML/CSS |
+| Outils | Git, LaTeX |
 
 ---
 
-### 📌 Focus Actuel
+## Projets
 
-Je développe actuellement un projet **NLP** sur la détection de biais discriminatoires, tout en renforçant mes compétences en **Machine Learning** pour préparer mon entrée en Master.
+### [Dungeon Battle — Jeu en C++](https://github.com/Itloow/DungeonAutoBattle)
+Jeu de combat en donjon en ligne de commande.  
+Conception orientee objet avec heritage, polymorphisme et gestion dynamique des entites.  
+**Tech :** C++, POO
 
-📫 *N'hésitez pas à explorer mes repos pour voir mon code !*
+### [ACP Rugby — Analyse Multidimensionnelle](https://github.com/Itloow/acp-rugby-joueurs)
+Exploration et classification de profils de joueurs de rugby via une Analyse en Composantes Principales.  
+Mise en evidence de correlations entre caracteristiques physiques et postes sur le terrain.  
+**Tech :** R, visualisation de donnees, statistiques multivariees
+
+### [MiniShell — Interpreteur de commandes](https://github.com/Itloow/minishell)
+Mini shell en C avec pipes chaines, execution en arriere-plan via pthreads detaches, et commande `jobs` avec protection mutex.  
+**Tech :** C, programmation systeme, threads POSIX
+
+### [DreamPark — Simulation de Parking](https://github.com/Itloow/MJEKU_WABOE_PYTHON)
+Simulation de gestion d'un parking en temps reel avec contraintes de places et types de vehicules.  
+**Tech :** Python, logique evenementielle
+
+### [Autobus — Modelisation Systeme](https://github.com/Itloow/MJEKU_SAID_JAVA)
+Modelisation d'un reseau de transport en commun avec architecture POO robuste et tests unitaires.  
+**Tech :** Java, heritage/polymorphisme, JUnit
+
+---
+
+## Focus actuel
+
+Stage de recherche a partir du 10 avril 2026 sur les determinants socioeconomiques de l'investissement migratoire des menages africains (UT2J). En attendant, renforcement de mes competences en Machine Learning et traitement de donnees en vue d'un Master Informatique (parcours IA / Data Science).
+
+N'hesitez pas a explorer mes repositories pour decouvrir mes autres projets et voir mon code.
