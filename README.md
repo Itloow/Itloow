@@ -21,23 +21,28 @@ Mon cursus hybride me permet de combiner rigueur statistique et developpement lo
 
 ## Projets
 
-### [Dungeon Battle — Jeu en C++](https://github.com/Itloow/DungeonAutoBattle)
-Jeu de combat en donjon en ligne de commande.  
-Conception orientee objet avec heritage, polymorphisme et gestion dynamique des entites.  
-**Tech :** C++, POO
+### [DreamPark — Simulation de Parking](https://github.com/Itloow/MJEKU_WABOE_PYTHON)
+Simulation de gestion d'un parking en temps reel avec contraintes de places et types de vehicules.  
+**Tech :** Python, logique evenementielle
 
 ### [ACP Rugby — Analyse Multidimensionnelle](https://github.com/Itloow/acp-rugby-joueurs)
 Exploration et classification de profils de joueurs de rugby via une Analyse en Composantes Principales.  
 Mise en evidence de correlations entre caracteristiques physiques et postes sur le terrain.  
 **Tech :** R, visualisation de donnees, statistiques multivariees
 
+### [League of Stones — Jeu de cartes en ligne](https://github.com/Itloow/league-of-stones)
+Jeu de cartes multijoueur au tour par tour, mashup entre Hearthstone et League of Legends.  
+Client React communiquant avec une API Express.js/MongoDB, avec matchmaking, gestion de deck et plateau de jeu complet.  
+**Tech :** React (Next.js), Zustand, CSS Modules, fetch API
+
+### [Dungeon Battle — Jeu en C++](https://github.com/Itloow/DungeonAutoBattle)
+Jeu de combat en donjon en ligne de commande.  
+Conception orientee objet avec heritage, polymorphisme et gestion dynamique des entites.  
+**Tech :** C++, POO
+
 ### [MiniShell — Interpreteur de commandes](https://github.com/Itloow/minishell)
 Mini shell en C avec pipes chaines, execution en arriere-plan via pthreads detaches, et commande `jobs` avec protection mutex.  
 **Tech :** C, programmation systeme, threads POSIX
-
-### [DreamPark — Simulation de Parking](https://github.com/Itloow/MJEKU_WABOE_PYTHON)
-Simulation de gestion d'un parking en temps reel avec contraintes de places et types de vehicules.  
-**Tech :** Python, logique evenementielle
 
 ### [Autobus — Modelisation Systeme](https://github.com/Itloow/MJEKU_SAID_JAVA)
 Modelisation d'un reseau de transport en commun avec architecture POO robuste et tests unitaires.  
