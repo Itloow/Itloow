@@ -52,6 +52,6 @@ Modelisation d'un reseau de transport en commun avec architecture POO robuste et
 
 ## Focus actuel
 
-Stage de recherche a partir du 10 avril 2026 sur les determinants socioeconomiques de l'investissement migratoire des menages africains (UT2J). En attendant, renforcement de mes competences en Machine Learning et traitement de donnees en vue d'un Master Informatique (parcours IA / Data Science).
+Stage de recherche a partir du 13 avril 2026 sur les determinants socioeconomiques de l'investissement migratoire des menages africains (UT2J). En attendant, renforcement de mes competences en Machine Learning et traitement de donnees en vue d'un Master Informatique (parcours IA / Data Science).
 
 N'hesitez pas a explorer mes repositories pour decouvrir mes autres projets et voir mon code.
