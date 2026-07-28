@@ -1,9 +1,8 @@
 # Salut, moi c'est Olti (Itloow)
 
-Etudiant en L3 MIASHS (Maths & Informatique Appliquees aux SHS) a l'Universite Toulouse Jean Jaures.  
-En route vers un Master Informatique, specialisation Data & Intelligence Artificielle.
+Admis en Master MIASHS (Data Science et Analyse de données) à l'Université Paul Valéry Montpellier 3, après avoir validé ma Licence MIASHS à l'Université Toulouse Jean Jaurès.
 
-Mon cursus hybride me permet de combiner rigueur statistique et developpement logiciel pour construire des solutions d'analyse et de modelisation.
+Mon cursus hybride me permet de combiner une forte rigueur statistique et des compétences en développement logiciel pour construire des solutions d'analyse de données concrètes.
 
 ---
 
@@ -52,6 +51,8 @@ Modelisation d'un reseau de transport en commun avec architecture POO robuste et
 
 ## Focus actuel
 
-Stage de recherche a partir du 13 avril 2026 sur les determinants socioeconomiques de l'investissement migratoire des menages africains (UT2J). En attendant, renforcement de mes competences en Machine Learning et traitement de donnees en vue d'un Master Informatique (parcours IA / Data Science).
+- Recherche d'un contrat d'alternance de 24 mois (Data Analyst / Data Scientist Junior) à partir de septembre 2026, avec un rythme de 2 semaines en entreprise / 2 semaines à l'école.
 
-N'hesitez pas a explorer mes repositories pour decouvrir mes autres projets et voir mon code.
+- Renforcement de mes compétences en Machine Learning et traitement de données en vue de ma rentrée en Master.
+
+N'hésitez pas à explorer mes repositories pour découvrir mes projets et voir mon code.
