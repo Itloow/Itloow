@@ -63,3 +63,10 @@ Certifications : Matplotlib, scikit-learn.
 | [**MJEKU_SAID_JAVA**](https://github.com/Itloow/MJEKU_SAID_JAVA) | Simulation d'autobus développée en TDD, avec couverture de tests et analyse SonarQube. | Java, JUnit, SonarQube |
 | [**MJEKU_WABOE_PYTHON**](https://github.com/Itloow/MJEKU_WABOE_PYTHON) | Simulation de parking développée par étapes, avec tests unitaires et documentation Pydoc. | Python |
 | [**DungeonAutoBattle**](https://github.com/Itloow/DungeonAutoBattle) | Auto-battler en console : héritage, polymorphisme, gestion dynamique de la mémoire. | C++ |
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-olti--mjeku-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olti-mjeku/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-oltimjeku-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/oltimjeku)
