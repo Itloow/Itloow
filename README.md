@@ -2,7 +2,7 @@
 
 **Étudiant en Master 1 MIASHS — Data Science et analyse de données** · Université Paul-Valéry Montpellier 3
 
-Formé à la fois aux statistiques et au développement logiciel (Licence MIASHS, parcours Informatique), je construis des chaînes de traitement de données complètes : collecte, nettoyage, modélisation et visualisation.
+Formé à la fois aux statistiques et au développement logiciel (Licence MIASHS, parcours Informatique), je construis des chaînes de traitement de données complètes : collecte, nettoyage, modélisation et visualisation. Je suis actuellement en stage de recherche au **LIRMM**, où je travaille sur la construction d'ontologies médicales assistée par LLM.
 
 > [!NOTE]
 > **Je recherche :**
@@ -22,6 +22,14 @@ Formé à la fois aux statistiques et au développement logiciel (Licence MIASHS
 
 ## Expérience
 
+**Stage de recherche — LIRMM, Montpellier** · depuis septembre 2026 (en cours)
+
+Projet **MedOnto** : construction d'ontologies médicales assistée par LLM à partir de données de santé hétérogènes, en équipe.
+- Développement du volet **données de cohortes structurées** : extraction et typage des variables de bases CSV, extraction de concepts médicaux avec **Qwen2.5** (via Ollama), recherche des concepts dans **SNOMED CT** (API BioPortal).
+- Mise en place de l'**architecture commune** du dépôt (post-traitement, vérification, utilitaires partagés), qui permet de fusionner les trois volets du projet.
+
+Dépôt : [Nushrat-Jahan/MedOnto](https://github.com/Nushrat-Jahan/MedOnto)
+
 **Stage Data Scientist — Université Toulouse - Jean Jaurès** · avril – juin 2026
 
 Analyse des facteurs socio-économiques des intentions migratoires à partir d'une base d'enquête et d'un questionnaire conçu en binôme : fusion de deux sources, imputation multi-niveaux (KNN, forêts aléatoires, Monte Carlo) et data visualisation.
@@ -32,7 +40,7 @@ Version publique, sur données simulées : [survey-data-pipeline-showcase](https
 | Domaine | Outils et méthodes |
 |---|---|
 | **Data science & statistiques** | Python (pandas, NumPy, scikit-learn, Matplotlib), R (RMarkdown), SQL · ACP, régression logistique, KNN, arbres de décision, imputation de données manquantes |
-| **NLP** | spaCy |
+| **NLP & LLM** | spaCy, Qwen2.5 via Ollama, ingénierie de prompts, SNOMED CT / BioPortal |
 | **Développement** | C (programmation système, sockets TCP, threads POSIX), C++, Java (UML, design patterns, JUnit, TDD), JavaScript, OCaml (notions) |
 | **Web** | React / Next.js, Symfony, PHP, HTML/CSS, PostgreSQL |
 | **Outils** | Git, Jupyter, LaTeX, SonarQube |
